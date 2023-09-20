@@ -3,5 +3,12 @@
 
 Animation
 
-https://github.com/EdroNbatoN/Tour-WebSite/assets/140645178/7a6ee6b2-b0e3-46dd-819d-0b781d1660e6
+https://github.com/EdroNbatoN/Tour-WebSite/assets/140645178/88504cc9-fed2-4098-beb3-c684512fbd8f
+
+
+
+
+
+
+
 
